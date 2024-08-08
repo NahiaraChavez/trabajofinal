@@ -1,0 +1,36 @@
+/*panatlla de inicio*/
+body{
+    background-image: url(../imagenes/ress.jpg);
+}
+
+/*imagenes para la calesita*/
+.alfajorcitos{ width: 25vw}
+img{
+    max-width: 100%;
+}
+
+
+/*tipos de fuentes*/
+#coloramarillo{
+    background-color: rgba(255, 252, 252, 0.432);
+    color:rgb(0, 0, 0);
+    font-size: 45px;
+    font-family: "Bodoni Moda SC", serif;
+    text-align: center;
+}
+#colorrosa{
+    background-color: rgba(255, 252, 252, 0.432);
+    color:rgb(0, 0, 0);
+    font-family: "IBM Plex Sans Condensed", sans-serif;
+    font-size: 30px;
+}
+#colorceleste{
+    background-color: rgba(255, 252, 252, 0.61);
+    color:rgb(0, 0, 0);
+    font-family: "Alegreya Sans SC", sans-serif;
+    font-size: 25px;
+}
+main img{
+    width: 100%;
+    height: 50vw;
+}
